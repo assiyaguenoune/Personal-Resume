@@ -2574,7 +2574,7 @@ td:last-child {
 	left          : 0;
 	top           : calc(var(--vspace-1) * 1.25 * -1);
 	font-family   : var(--font-1);
-	font-weight   : 600;
+	font-weight   : 100;
 	color         : var(--color-text);
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
@@ -3209,7 +3209,7 @@ td:last-child {
 .s-header__inner {
 	height     : var(--header-height);
 	align-items: center;
-	padding    : 0 var(--gutter);
+	padding-top: 45px;
 }
 
 .s-header__block {

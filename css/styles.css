@@ -4761,9 +4761,9 @@ td:last-child {
 
 .skill-bars-fat li strong {
     font-family: var(--font-1);
-    font-weight: 600;
+    font-weight: 360;
     color: var(--color-text-dark);
-    text-transform: uppercase;
+    
     letter-spacing: .2em;
     font-size: calc(var(--text-size) * 0.7778);
     line-height: 2rem;

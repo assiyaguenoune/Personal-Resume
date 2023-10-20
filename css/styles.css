@@ -3839,7 +3839,7 @@ td:last-child {
  * responsive:
  * intro
  * ------------------------------------------------------------------- */
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1000px) {
 	.s-intro {
 		--content-padding-top: max(12rem, 18vh);
 		height               : auto;
